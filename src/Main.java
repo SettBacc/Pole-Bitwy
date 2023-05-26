@@ -11,7 +11,7 @@ public class Main {
         System.out.println("Hello world!");
         List blue = new ArrayList<>();
         List red = new ArrayList<>();
-        int x=10,y=20;
+        int x=10, y=20;
         Plansza plansza = new Plansza(x,y);
         int[] T1 = new int[]{10,6,6,5,10,3};
         int[] T2 = new int[]{1,3,8,6,8,5};
